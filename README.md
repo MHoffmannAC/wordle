@@ -40,8 +40,8 @@ This Python project implements a versatile version of the classic Wordle game, f
 
 ## Project Files
 
-- **Wordle_by_MHoffmann_and_ChatGPT.ipynb**: The main Jupyter notebook file containing the complete implementation of the game.
-- **wordle_class.md**: Brief overview of the wordle class summarizing its attributes and methods.
+- [**Wordle.ipynb**](https://github.com/MHoffmannAC/wordle/blob/main/Wordle.ipynb): The main Jupyter notebook file containing the complete implementation of the game.
+- [**wordle_class.md**](https://github.com/MHoffmannAC/wordle/blob/main/wordle_class.md): Brief overview of the wordle class summarizing its attributes and methods.
 - **README.md**: This file, providing an overview of the project and instructions for use.
 
 -----
@@ -70,7 +70,7 @@ The game has been tested using Python 3.10.12 in Google Colab.
 
 -----
 
-## Known Issues:
+## Known Issues
 
-- submitting words via ENTER-key needs to be done with care. Too quick submission after typing in the word can cause wrongfully denial of the submitted word as it is not fully transmitted.
-- the focus should be set on the input boxes to avoid having to click into the input-box with the mouse every time.
+- Submitting words via ENTER-key needs to be done with care. Too quick submission after typing in the word can cause wrongfully denial of the submitted word as it is not fully transmitted.
+- The focus should be set on the input boxes to avoid having to click into the input-box with the mouse every time.
