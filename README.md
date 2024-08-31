@@ -64,4 +64,11 @@ This Python project implements a versatile version of the classic Wordle game, f
 
 No additional installation is required if used in Google Colab. For other environments, ensure that `ipywidgets` and `IPython.display` are installed for interactive features.
 
-The game has been tested using Python 3.10.12 in Google Colab and Jupyter notebooks.
+The game has been tested using Python 3.10.12 in Google Colab.
+
+-----
+
+## Known Issues:
+
+- submitting words via ENTER-key needs to be done with care. Too quick submission after typing in the word can cause wrongfully denial of the submitted word as it is not fully transmitted.
+- the focus should be set on the input boxes to avoid having to click into the input-box with the mouse every time.
