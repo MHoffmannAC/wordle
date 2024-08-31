@@ -40,7 +40,7 @@ This Python project implements a versatile version of the classic Wordle game, f
 
 ## Project Files
 
-- **Wordle_Game.ipynb**: The main Jupyter notebook file containing the complete implementation of the game.
+- **Wordle_by_MHoffmann_and_ChatGPT.ipynb**: The main Jupyter notebook file containing the complete implementation of the game.
 - **README.md**: This file, providing an overview of the project and instructions for use.
 
 -----
