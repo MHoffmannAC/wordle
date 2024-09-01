@@ -55,7 +55,7 @@ This Python project implements a versatile version of the classic Wordle game, f
    - Select the language and choose how to pick the solution word (random or user-defined).
 
 3. **Play the Game**:
-   - Enter your guesses in the provided input box and submit them using the submit button or by pressing Enter. The game will provide feedback on your guesses and update the board accordingly.
+   - Enter your guesses in the provided input box either via typing or by clicking the letter buttons. Submit your quess using the submit button or by pressing Enter. The game will provide feedback on your guesses and update the board accordingly.
 
 4. **End or Restart**:
    - Once the game ends, you can restart the game by clicking the restart button. The final screen will display whether you won or lost, along with the correct solution.
