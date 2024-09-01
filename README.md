@@ -74,3 +74,4 @@ The game has been tested using Python 3.10.12 in Google Colab.
 
 - Submitting words via ENTER-key needs to be done with care. Too quick submission after typing in the word can cause wrongfully denial of the submitted word as it is not fully transmitted.
 - The focus should be set on the input boxes to avoid having to click into the input-box with the mouse every time.
+- `ipywidgets` does not allow easily to modify text colors of buttons. If the letter buttons are not readable, most likely your browser theme uses an unfavorable text color.
