@@ -1,4 +1,4 @@
-# Wordle Game (Python Implementation) [![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MHoffmannAC/wordle/blob/main/Wordle_by_MHoffmann_and_ChatGPT.ipynb)
+# Wordle Game (Python Implementation) [![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MHoffmannAC/wordle/blob/main/Wordle.ipynb)
 
 
 ## Project Overview
@@ -49,7 +49,7 @@ This Python project implements a versatile version of the classic Wordle game, f
 ## How to Play
 
 1. **Start the Game**:
-   - Open the notebook in Google Colab [![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MHoffmannAC/wordle/blob/main/Wordle_by_MHoffmann_and_ChatGPT.ipynb) or a Jupyter environment and run the cells to initialize the game.
+   - Open the notebook in Google Colab [![Open All Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MHoffmannAC/wordle/blob/main/Wordle.ipynb) or a Jupyter environment and run the cells to initialize the game.
 
 2. **Choose Settings**:
    - Select the language and choose how to pick the solution word (random or user-defined).
