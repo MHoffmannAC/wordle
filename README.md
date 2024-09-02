@@ -55,7 +55,7 @@ This Python project implements a versatile version of the classic Wordle game, f
    - Select the language and choose how to pick the solution word (random or user-defined).
 
 3. **Play the Game**:
-   - Enter your guesses in the provided input box either via typing or by clicking the letter buttons. Submit your quess using the submit button or by pressing Enter. The game will provide feedback on your guesses and update the board accordingly.
+   - Enter your guess by clicking the letter buttons. Submit your guess using the submit button. The game will provide feedback on your guesses and update the board accordingly.
 
 4. **End or Restart**:
    - Once the game ends, you can restart the game by clicking the restart button. The final screen will display whether you won or lost, along with the correct solution.
@@ -72,6 +72,5 @@ The game has been tested using Python 3.10.12 in Google Colab.
 
 ## Known Issues
 
-- Submitting words via ENTER-key needs to be done with care. Too quick submission after typing in the word can cause wrongfully denial of the submitted word as it is not fully transmitted.
-- The focus should be set on the input boxes to avoid having to click into the input-box with the mouse every time.
-- `ipywidgets` does not allow easily to modify text colors of buttons. If the letter buttons are not readable, most likely your browser theme uses an unfavorable text color.
+- the refresh speed and smoothness of the display during typing needs to be improved.
+- `ipywidgets` in Colab does not allow easily to modify text colors of buttons. If the letter buttons are not readable, most likely your browser theme uses an unfavorable text color.
